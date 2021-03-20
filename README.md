@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm Ivanna Almeida</h1>
+<h1 align="center">Olá, me chamo Ivanna Almeida</h1>
 
-<p align="center"> 👩‍🎓 I’m currently a student of the MBA Full Stack Development at IGTI </p>
+<p align="center"> 👩‍🎓 Atualmente sou estudante do MBA Desenvolvimento FullStack no IGTI </p>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Conecte-se comigo:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/ivanna-almeida" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ivanna-almeida"  /></a>
 <a href="https://instagram.com/ivanna.atech" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="ivanna.atech" /></a>
