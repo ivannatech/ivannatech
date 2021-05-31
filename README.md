@@ -10,4 +10,4 @@
 <a href="https://fb.com/ivannatech" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="ivannatech" /></a>
 </p>
 
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=ivannaatech&show_icons=true&locale=en&layout=compact" alt="ivannaatech" /></p>
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=ivannatech&show_icons=true&locale=en&layout=compact" alt="ivannatech" /></p>
