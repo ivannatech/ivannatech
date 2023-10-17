@@ -1,6 +1,6 @@
 <h1 align="center">Olá, me chamo Ivanna Almeida</h1>
 
-<p align="center"> 👩‍🎓 Atualmente sou estudante do MBA Desenvolvimento FullStack no IGTI </p>
+<p align="center"> 👩‍🎓 Bacharel em Administração e pós-graduada em Desenvolvimento FullStack pelo IGTI </p>
 
 <h3 align="center">Conecte-se comigo:</h3>
 <p align="center">
