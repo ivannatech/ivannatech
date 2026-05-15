@@ -54,8 +54,8 @@ Interested in building practical software solutions focused on productivity, aut
 
 ## Contacts
 
-- [LinkedIn](https://www.linkedin.com/in/ivannatech)
-- 🌐 Portfólio em breve!
+- [LinkedIn](https://www.linkedin.com/in/ivanna-almeida/)
+
 
 
 
