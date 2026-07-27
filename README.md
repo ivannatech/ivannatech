@@ -1,62 +1,62 @@
 <h1 align="center">Ivanna Almeida</h1>
-<p align="center">Professional with experience in administrative operations and technology environments, currently focused on backend development, automation, and software engineering studies.
-MBA in Full Stack Development and Computer Science undergraduate student.</p>
+
+<p align="center">Profissional com experiência em operações administrativas e tecnologia, focada em desenvolvimento full stack.</p>
+<p align="center">🎓 Graduanda em Ciência da Computação 
+🎓 MBA em Desenvolvimento Full Stack</p>
 
 ---
 
-### Current Focus
+## Atualmente estudando e desenvolvendo
 
-- Backend Development
-- Process Automation
-- APIs and Integrations
-- AI Applied to Productivity
-- Software Engineering
+- Desenvolvimento Backend
+- Automação de Processos
+- APIs e Integrações
+- Inteligência Artificial aplicada à produtividade
+- Engenharia de Software
 
 ---
 
-### Tech Stack
+## Tecnologias
 
-<div align="center">
+<p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
-  <img src="https://shields.io/badge/%7BREST:API%7D-blue" />
-  <img src="https://shields.io/badge/docker-257bd6?&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F1502F?logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white" />
-</div>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
+  <img src="https://shields.io/badge/REST_API-blue" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+</p>
 
 ---
 
-### Featured Projects
+## Projetos em destaque
 
-- [Financial Planning Platform)](https://github.com/ivannatech/finplan-pro) 
-- [Contract Control and Analysis System)](https://github.com/ivannatech/ocr-contratos)  
-- [NCR App (Non-Compliance Report)](https://github.com/ivannatech/AppQualidadeFeedback)  
+- 💰 [Plataforma de Planejamento Financeiro](https://github.com/ivannatech/finplan-pro)
+- 📄 [Sistema de Controle e Análise de Contratos](https://github.com/ivannatech/ocr-contratos)
+- ✅ [Aplicativo de Relatório de Não Conformidades (NCR)](https://github.com/ivannatech/AppQualidadeFeedback) 
 
+---
 
-#### Old repositories:
-  My study journey between 2020 and 2025.
-- [Old repositories](https://github.com/orgs/ivannatech-archive/repositories)  
+## Repositórios
 
+- [Repositórios de estudos (2020–2025)](https://github.com/orgs/ivannatech-archive/repositories)
 - [Landing Pages](https://github.com/orgs/ivannatech-landing-pages/repositories)  
 
 ---
 
-### About
+## Sobre mim
 
-Interested in building practical software solutions focused on productivity, automation, and corporate environments.
+Gosto de desenvolver soluções práticas voltadas para produtividade, automação e ambientes corporativos.
 
-## Contacts
+Estou sempre aprendendo novas tecnologias e buscando criar aplicações que gerem impacto no dia a dia.
 
-- [LinkedIn](https://www.linkedin.com/in/ivanna-almeida/)
+---
 
+## Contato
 
-
-
-
+- LinkedIn: https://www.linkedin.com/in/ivanna-almeida/
